@@ -127,7 +127,7 @@ Pod::Spec.new do |s|
 
   # s.requires_arc = true
 
-  s.dependency "openshare", "~> 0.0.1"
+  s.dependency "OpenShare", "~> 0.0.1"
 
   # s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
   # s.dependency "JSONKit", "~> 1.4"
