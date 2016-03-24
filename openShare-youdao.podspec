@@ -35,7 +35,7 @@ Pod::Spec.new do |s|
   #
 
   #s.license      = "MIT"
-  s.license      = { :type => "GPL v3", :file => "LICENSE" }
+  s.license      = "MIT"
 
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -110,7 +110,7 @@ Pod::Spec.new do |s|
   #  the lib prefix of their name.
   #
   
-  s.frameworks = "FoundationFramework", "UIKit"
+  s.frameworks = "Foundation", "UIKit"
 
   # s.framework  = "SomeFramework"
   # s.frameworks = "SomeFramework", "AnotherFramework"
